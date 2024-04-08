@@ -1,0 +1,46 @@
+{
+    "formatVersion": 1,
+    "passTypeIdentifier": "pass.com.wiedevelopment",
+    "serialNumber": "8j23tm3",
+    "webServiceURL": "https://cards.wiedevelopment.com",
+    "authenticationToken": "vxwxd7J8AlNNFPS8k0a0FfUFtq0ewzFdc",
+    "teamIdentifier": "274R4GM2Y4",
+    "organizationName": "Free Hotel Rooms",
+    "description": "Membership Card",
+    "foregroundColor": "rgb(0, 0, 0)",
+    "labelColor": "rgb(0, 0, 0)",
+    "isRemotePass": false,
+    "logoText": "Free Hotel Rooms",
+    "backgroundColor": "rgb(255,255,255)",
+    "storeCard": {
+      "primaryFields": [],
+      "secondaryFields": [
+        {
+          "key": "member_name",
+          "label": "MEMBER",
+          "value": "John Doe"
+        },
+        {
+          "key": "expiry_date",
+          "label": "EXPIRES",
+          "value": "2 Nov 2025"
+        }
+      ],
+      "backFields": [
+        {
+          "key": "member_number",
+          "label": "Member Number",
+          "value": "432432432"
+        }
+      ],
+      "barcodes": [
+        {
+          "message": "432432432",
+          "format": "PKBarcodeFormat128",
+          "messageEncoding": "iso-8859-1",
+          "altText": "4432432432242424242"
+        }
+      ]
+    }
+  }
+  
